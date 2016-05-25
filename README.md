@@ -1,2 +1,1 @@
-# hello-world
-first repository
+# im a human i am a okay human
